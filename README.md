@@ -1,6 +1,6 @@
 # CollisionViz
 
-[Live](https://collisionviz.davidfeng.us/)
+[Live](https://collisionviz.awesome.us/)
 
 ![Screenshot](./docs/screenshot.png)
 
